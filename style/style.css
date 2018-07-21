@@ -7,3 +7,13 @@ body {
     background-color: #444444;
     color: #eeeeee;
 }
+
+#mainDiv {
+    background-image: url("../img/background.png");
+    height: 666px;
+    width: 1000px;
+    border-style: solid;
+    border-color: #eeeeee;
+    margin: 0;
+    padding: 0;
+}
