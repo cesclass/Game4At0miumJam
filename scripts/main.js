@@ -9,7 +9,8 @@ let getRandomInt = (max) => {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
-mainDiv = addEventListener('clock', () => {
+window.addEventListener('clock', () => {
+    console.log('ping');
     // 1/50 chance de créer un vieux toutes le 100ms
     rand = getRandomInt(50);
     if(rand === 0) {
