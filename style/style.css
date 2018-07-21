@@ -1,0 +1,9 @@
+:root {
+    /*  Retire le surlignage bleu de selection  */
+    -webkit-user-select: none;
+}
+
+body {
+    background-color: #444444;
+    color: #eeeeee;
+}
