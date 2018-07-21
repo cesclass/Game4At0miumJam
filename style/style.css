@@ -14,8 +14,8 @@ body {
 #mainDiv {
     margin: auto;
     background-image: url("../img/background.png");
-    height: 666px;
-    width: 1000px;
+    height: 600px;
+    width: 900px;
     border-style: solid;
     border-color: #eeeeee;
     padding: 0;
